@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cyberconnect-button-demo/static/css/main.2aa768b0.css",
-    "main.js": "/cyberconnect-button-demo/static/js/main.2cc94622.js",
+    "main.js": "/cyberconnect-button-demo/static/js/main.d5024e55.js",
     "static/js/787.16a84825.chunk.js": "/cyberconnect-button-demo/static/js/787.16a84825.chunk.js",
     "static/media/index.cjs": "/cyberconnect-button-demo/static/media/index.1afc3983784dac2a221b.cjs",
     "index.html": "/cyberconnect-button-demo/index.html",
     "main.2aa768b0.css.map": "/cyberconnect-button-demo/static/css/main.2aa768b0.css.map",
-    "main.2cc94622.js.map": "/cyberconnect-button-demo/static/js/main.2cc94622.js.map",
+    "main.d5024e55.js.map": "/cyberconnect-button-demo/static/js/main.d5024e55.js.map",
     "787.16a84825.chunk.js.map": "/cyberconnect-button-demo/static/js/787.16a84825.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aa768b0.css",
-    "static/js/main.2cc94622.js"
+    "static/js/main.d5024e55.js"
   ]
 }
