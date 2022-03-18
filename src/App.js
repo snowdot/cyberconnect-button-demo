@@ -75,7 +75,7 @@ function App() {
               provider={window.ethereum}
               namespace="CyberConnect"
               toAddr={toAddress}
-              env={Env.STAGING}
+              env={Env.PRODUCTION}
               chain={Blockchain.ETH}
               onSuccess={(e) => {
                 console.log(e);
